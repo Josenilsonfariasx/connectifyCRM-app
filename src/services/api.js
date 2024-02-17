@@ -1,6 +1,6 @@
 import axios from "axios"
 
 export const Api = axios.create ({
-    baseURL: "http://localhost:3333/",
+    baseURL: "https://crm-connectfy.onrender.com",
     timeout: 8000,
 })
