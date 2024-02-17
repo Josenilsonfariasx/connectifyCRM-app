@@ -47,6 +47,11 @@ Ou:
 npm dev
 ```
 
+Link da aplicação na nuvem
+```
+https://connectify-crm-app.vercel.app/
+```
+
 # Documentação do Projeto ConnectifyCRM-app
 
 O ConnectifyCRM-app é um projeto individual que visa aprimorar as habilidades e aplicar conceitos avançados de desenvolvimento web. Este projeto utiliza a tecnologia React e engloba uma variedade de tecnologias e práticas modernas de desenvolvimento para criar uma aplicação completa e funcional.
