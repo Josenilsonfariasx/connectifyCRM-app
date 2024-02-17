@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://nextjs.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/vetores-premium/design-de-logotipo-de-conceito-de-moda-a_278222-911.jpg?w=2000">
+      <source media="(prefers-color-scheme: dark)" srcset="[https://img.freepik.com/vetores-premium/design-de-logotipo-de-conceito-de-moda-a_278222-911.jpg?w=2000](https://givemecrack.com/wp-content/uploads/2020/12/connectify-squarelogo-1508250674010.png)">
       <img src="https://givemecrack.com/wp-content/uploads/2020/12/connectify-squarelogo-1508250674010.png" height="128">
     </picture>
     <h1 align="center">ConnectifyCRM-App</h1>
